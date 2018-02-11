@@ -1,4 +1,3 @@
-﻿"  
 A customer project team member said that we haven't been told about the complexity of STAR.   It's not our fault.  But Miriam (Charles predecessor) just didn't understand the complexity of STAR - and that (complexity) wasn't communicated to Microsoft."	
  AW not testing before UAT	
  Customer definition of complete may be different from MS definition of complete	
